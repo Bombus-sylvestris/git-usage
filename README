@@ -1,0 +1,9 @@
+This is an analysis of git usage over time.
+
+To run:
+
+```
+Rscript src/make-plot.R
+```
+
+The data is in `data` and the results are in `out`.
